@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://villanuevapatricio.github.io/Portfolio/",
+  "homepage":"https://villanuevapatricio.github.io/Portfolio",
   "dependencies": {
     "gh-pages": "^5.0.0"
   }
