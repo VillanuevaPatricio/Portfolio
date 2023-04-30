@@ -1,0 +1,17 @@
+{
+  "name": "mi-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://VillanuevaPatricio.github.io/Portfolio",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
